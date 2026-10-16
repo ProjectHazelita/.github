@@ -73,8 +73,6 @@ Project Hazelita no longer refers only to a collection of projects; more often, 
 
 ---
 
-<br/>
-
 <div align="center">
 
 We shall not cease from exploration \

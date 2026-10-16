@@ -73,8 +73,6 @@ Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候
 
 ---
 
-<br/>
-
 <div align="center">
 
 我们将不停止探索 \
