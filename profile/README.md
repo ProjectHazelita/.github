@@ -18,7 +18,7 @@
 
 **Project Hazelita** 是一系列围绕开源软件、技术、实验与知识共享而构建的项目。同时，**Project Hazelita 社群**是一个友善、包容、全性别友好并尊重多样性的空间。
 
-Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的一个朴素愿望：为高中生打造一套 [数学 CAS 计算套件和演示工具](https://github.com/ProjectHazelita/Hazelita)，这是一个高中生渴望亲手构建一个真正属于自己的项目的热忱与愿望。由于该项目的实现难度远超 LyCecilion 先前的想象，该项目最终被搁置数月，并于 2026 年 7 月宣布暂停开发。
+Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的一个朴素愿望：为高中生打造一套 [数学 CAS 计算套件和演示工具](https://github.com/ProjectHazelita/Hazelita)。这源于一名高中生的热忱：亲手构建一个真正属于自己的项目。由于该项目的实现难度远超 LyCecilion 先前的想象，该项目最终被搁置数月，并于 2026 年 7 月宣布暂停开发。
 
 原先的项目失败了，但 Project Hazelita 的故事并未就此结束。从项目创立到开发暂停，有一群同样饱含热忱的朋友们相识并相聚在一起，组成了一个融洽的集体。于是，我们成立了 Project Hazelita 社群——我们延续了原项目的名字，也延续了那份共同构建世界、探索未来的热情。
 
@@ -56,7 +56,7 @@ Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的
 
 ## 🤝 我们的社群
 
-Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候指的是我们友好而温暖的社群。我们的社群分布在各个平台上——以及，如果你也想加入我们的话，欢迎。
+Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候指的是我们友好而温暖的社群。我们的社群分布在多个平台上，也欢迎你加入我们。
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候
 | QQ 群聊 | Discord 服务器 | Telegram 群组 |
 | :---: | :---: | :---: |
 | [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](about:blank) | [📡 Hazelita Relay](about:blank) |
-| 最日常热闹的聚集场所 | 语音、直播、社群活动 | 轻量、开放的交流地 |
+| 日常、热闹的聚集场所 | 语音、直播、社群活动 | 轻量、开放的交流地 |
 
 </div>
 

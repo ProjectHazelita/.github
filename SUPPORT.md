@@ -1,92 +1,85 @@
-# Support
+<!-- markdownlint-disable MD033 MD041 -->
 
-Welcome to Project Hazelita. 🪼
+<div align="center">
 
-If you need help, the best place to ask depends on what kind of problem you are trying to solve.
+中文 | [English](./SUPPORT-en.md)
 
-This document is a general guide for Project Hazelita repositories. Individual projects may provide more specific support channels.
+</div>
 
-## Bug reports
+# 获取帮助
 
-If you believe you have found a bug in a Project Hazelita project, please open an issue in the affected repository.
+欢迎来到 Project Hazelita。如果你遇到了问题，最合适的求助方式取决于你正在处理什么。
 
-Before opening a new issue:
+本文是 Project Hazelita 各项目默认使用的支持指南。具体项目如果提供了自己的文档、支持渠道或 `SUPPORT.md`，请优先遵循项目自己的说明。
 
-- search existing issues to see whether the problem has already been reported;
-- include steps to reproduce the problem when possible;
-- provide relevant environment and version information;
-- include logs, screenshots, or error messages when they help explain the issue;
-- remove passwords, tokens, private information, and other secrets before posting.
+## 我应该去哪里？
 
-If the issue may have security implications, **do not open a public issue**. Please follow the repository's `SECURITY.md` instead.
+| 你遇到的事情 | 推荐去处 |
+| --- | --- |
+| 软件出现 bug | 对应项目的 Issue |
+| 想提出功能建议 | Issue 或 Discussion |
+| 不知道项目怎么使用 | README、项目文档、Discussion 或 Project Hazelita 社群 |
+| 想参与开发或贡献内容 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) |
+| 发现安全漏洞 | [`SECURITY.md`](./SECURITY.md) |
+| 遇到骚扰、歧视、成员冲突或其他社群问题 | [《Project Hazelita 社群公约》](https://github.com/ProjectHazelita/community-guidelines)中规定的处理渠道 |
+| 只是想聊聊项目、技术或其他有趣的事情 | Project Hazelita 社群 |
 
-## Feature requests
+## Bug
 
-Feature requests are welcome through the affected project's issue tracker or discussion space.
+如果你认为发现了项目中的 bug，请在对应仓库创建 Issue。
 
-It is often helpful to describe:
+在创建之前，建议：
 
-- the problem you are trying to solve;
-- who or what is affected;
-- the behavior you would like to see;
-- alternatives or workarounds you have considered.
+- 简单搜索一下已有 Issue，看看是否已经有人报告；
+- 说明实际发生了什么，以及你原本期望发生什么；
+- 在可能的情况下提供复现步骤、版本和运行环境；
+- 附上有帮助的日志、截图或错误信息。
 
-For large or architectural changes, starting with a discussion before implementing the feature is usually a good idea.
+更完整的贡献与 bug 报告建议，请参阅 [`CONTRIBUTING.md`](./CONTRIBUTING.md)。如果问题可能涉及安全影响，不要创建公开 Issue，请改为按照 [`SECURITY.md`](./SECURITY.md) 私下报告。
 
-## Usage questions
+## 功能建议
 
-If you need help using a project, first check its README and documentation.
+功能建议可以通过对应项目的 Issue 或 Discussion 提出。
 
-If the answer is not documented, you may:
+对于范围较大、可能影响架构或现有行为的想法，建议先讨论需求和设计，再投入大量实现工作。
 
-- open a GitHub Discussion when the repository has Discussions enabled;
-- ask in an appropriate Project Hazelita community space;
-- open an issue if the question appears to reveal a documentation problem or software defect.
+## 使用问题
 
-Please avoid opening bug reports for general questions unless there is evidence that the software itself is behaving incorrectly.
+如果你不知道如何使用某个项目，建议依次查看项目的 README、项目文档、已有 Issue 或 Discussion。如果仍然找不到答案，可以在项目的 Discussion 中提问，或来到 Project Hazelita 社群与大家交流。
 
-## Security vulnerabilities
+如果一个使用问题实际上暴露了文档缺失、行为异常或软件缺陷，也欢迎创建 Issue。
 
-Security vulnerabilities should be reported privately.
+## Project Hazelita 社群
 
-Please follow the affected repository's `SECURITY.md` or the Project Hazelita organization-wide security policy.
+如果问题并不只属于某一个仓库，或者你只是想讨论技术、项目、学习、创作与日常话题，欢迎加入 Project Hazelita 社群。
 
-Do not publish exploit details, sensitive information, or vulnerability reports in public issues or discussions before maintainers have had a reasonable opportunity to investigate them.
+目前我们的社区空间包括：
 
-## Community and general discussion
+- 🏙️ **Hazelita Plaza** — QQ 群聊；
+- 🌿 **Hazelita Commons** — Discord 服务器；
+- 📡 **Hazelita Relay** — Telegram 群组。
 
-For conversations that are not tied to a specific repository, you are welcome to join the wider Project Hazelita community.
+你可以从 [Project Hazelita 的 GitHub Profile](https://github.com/ProjectHazelita) 获取当前有效的加入入口。参与社群时，请遵守[《Project Hazelita 社群公约》](https://github.com/ProjectHazelita/community-guidelines)。
 
-Hazelita Plaza includes our community spaces for technical discussion, project ideas, learning, daily life, and conversations that do not belong in a repository issue tracker.
+## 社群行为与管理问题
 
-Please follow the [Project Hazelita Community Guidelines](https://github.com/ProjectHazelita/community-guidelines) when participating in community spaces.
+如果你需要报告骚扰、歧视、成员冲突、隐私问题、管理行为或其他可能违反《Project Hazelita 社群公约》的情况，请按照公约中规定的渠道处理。
 
-## Community conduct and moderation
+涉及个人信息或敏感事件时，请尽量避免通过公开 GitHub Issue、Discussion 或其他公开渠道提交报告。
 
-Reports involving harassment, discrimination, interpersonal conflict, moderation, or possible violations of the Project Hazelita Community Guidelines should use the reporting process described in the Community Guidelines.
+## 项目自己的规则优先
 
-Please avoid opening public GitHub issues for sensitive conduct reports unless public discussion is explicitly appropriate.
+不同 Project Hazelita 项目可能维护自己的文档、Issue Template、Discussion、FAQ、支持渠道、`CONTRIBUTING.md`、`SECURITY.md` 或 `SUPPORT.md`。如果项目提供了更具体的说明，请优先按照该项目自己的方式寻求帮助。
 
-These matters may involve personal information or vulnerable people and should be handled with care.
+## 关于回复时间
 
-## Project-specific support
-
-Some Project Hazelita projects may maintain their own support channels, documentation, issue templates, or response policies.
-
-When project-specific guidance exists, please follow it instead of this organization-wide default.
-
-## Maintainer availability
-
-Project Hazelita is maintained by people contributing their time and energy to the community.
-
-Response times may vary depending on the project, issue complexity, and maintainer availability.
-
-If a question has not received an immediate response, that does not necessarily mean it has been ignored.
-
-Please avoid repeatedly mentioning maintainers or opening duplicate issues solely to request faster attention.
+Project Hazelita 的项目主要由社区成员利用自己的时间和精力维护。回复速度可能取决于项目活跃程度、问题复杂度与维护者当前的时间安排。没有立即收到回复并不一定意味着问题被忽略，因此请尽量避免仅为了催促回复而反复提及维护者、重复创建 Issue 或在多个渠道重复发送相同内容。
 
 ---
 
-Not every question needs to become an issue, and not every issue needs to become a crisis.
+<div align="center">
 
-Finding the right place for a conversation helps everyone spend more time solving problems and less time figuring out where the conversation belongs. 🌱
+不是每一个问题都需要成为 Issue，也不是每一个 Issue 都需要成为危机。\
+把一场对话放到合适的地方，大家就可以少一点寻找入口的时间，多一点真正解决问题的时间。🌱
+
+</div>
