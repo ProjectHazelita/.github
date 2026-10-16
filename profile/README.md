@@ -16,7 +16,7 @@
 
 ## ✨ 关于 Project Hazelita
 
-**Project Hazelita** 是一系列围绕开源软件、技术、实验与知识共享而构建的项目。同时，**Project Hazelita 社群**是一个友善、包容、全性别友好并尊重多样性的空间。
+**Project Hazelita** 是一系列围绕开源软件、技术、实验与知识共享而构建的项目。同时，**Project Hazelita 社群** 是一个友善、包容、全性别友好并尊重多样性的空间。
 
 Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的一个朴素愿望：为高中生打造一套 [数学 CAS 计算套件和演示工具](https://github.com/ProjectHazelita/Hazelita)。这源于一名高中生的热忱：亲手构建一个真正属于自己的项目。由于该项目的实现难度远超 LyCecilion 先前的想象，该项目最终被搁置数月，并于 2026 年 7 月宣布暂停开发。
 
@@ -46,7 +46,7 @@ Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的
 | [LedScribe](https://github.com/ProjectHazelita/LedScribe) | 🛠 \| 🧰 | CH546 11x44 显示屏写入工具 |
 | [ret2cli](https://github.com/ProjectHazelita/ret2cli) | 💤 \| 🧰 | Ret2Shell CTF 平台的 CLI 客户端 |
 | [Hazelita](https://github.com/ProjectHazelita/Hazelita) | 💤 \| 🌌 | 适用于高中生的数学 CAS 计算套件和演示工具 |
-| [hzltfw](https://github.com/ProjectHazelita/hzltfw) | 📦 \|🎓 | 面向电子数据取证课程实训的本地取证工作台 |
+| [hzltfw](https://github.com/ProjectHazelita/hzltfw) | 📦 \| 🎓 | 面向电子数据取证课程实训的本地取证工作台 |
 
 | hzlt!Game 挑战 | 维护情况 | 挑战描述 |
 | ---: | :---: | :--- |
