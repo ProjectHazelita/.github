@@ -1,7 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-EDIT THIS BEFORE APPLYING IT, TO VISITORS OUTSIDE PROJECT HAZELITA THIS IS NOT A FORMAL FILE SHOULD BE EDITED BEFORE PUTTING INTO USE
-
 <div align="center">
 
 <picture>
@@ -10,62 +8,80 @@ EDIT THIS BEFORE APPLYING IT, TO VISITORS OUTSIDE PROJECT HAZELITA THIS IS NOT A
   <img alt="Project Hazelita" src="../assets/project-hazelita-latte-cropped.png">
 </picture>
 
-</div><br/>
+<br/>
 
-**Building open technology, sharing knowledge, and creating a friendly place for people to meet.**
+中文 | [English](./README-en.md)
 
-Project Hazelita is an open-source community where we build software, explore technology, share knowledge, and occasionally create things simply because they seem interesting.
+</div>
 
-We hope Project Hazelita can be a **friendly, inclusive, gender-friendly community that respects diversity** — a place for developers, users, researchers, learners, and travelers who happen to stop by.
+## ✨ 关于 Project Hazelita
 
-Project Hazelita 是一个围绕开源软件、技术探索与知识分享而建立的社区。
+**Project Hazelita** 是一系列围绕开源软件、技术、实验与知识共享而构建的项目。同时，**Project Hazelita 社群**是一个友善、包容、全性别友好并尊重多样性的空间。
 
-我们希望这里成为一个 **友善、包容、全性别友好、尊重多样性** 的技术社群。无论你是开发者、用户、学习者，还是偶然抵达的旅人，都欢迎在这里交流技术、分享知识，也在合适的空间里谈论生活、互相支持。
+Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的一个朴素愿望：为高中生打造一套 [数学 CAS 计算套件和演示工具](https://github.com/ProjectHazelita/Hazelita)，这是一个高中生渴望亲手构建一个真正属于自己的项目的热忱与愿望。由于该项目的实现难度远超 LyCecilion 先前的想象，该项目最终被搁置数月，并于 2026 年 7 月宣布暂停开发。
 
-## ✨ What we do
+原先的项目失败了，但 Project Hazelita 的故事并未就此结束。从项目创立到开发暂停，有一群同样饱含热忱的朋友们相识并相聚在一起，组成了一个融洽的集体。于是，我们成立了 Project Hazelita 社群——我们延续了原项目的名字，也延续了那份共同构建世界、探索未来的热情。
 
-Our projects span different areas of software and technology.
+## 🔍 我们在做什么
 
-Some are long-term projects maintained by the community, some are experiments, and some begin simply because someone thought:
+- 贡献和维护开源软件项目
+- 鼓励并支持成员的技术实验
+- 互相分享技术、经验与学习过程
+- 为朋友们提供一个友好开放的交流空间
 
-> *“Wouldn't it be interesting if this existed?”*
+## 📦 我们的项目
 
-You can explore our pinned repositories below to find some of the projects we are currently working on.
+<div align="center">
 
-## 🌱 Contributing
+| 🟢 | 🛠 | 🌱 | ⏸️ | 🏁 | 💤 | 📦 | 🪦 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 活跃中 | 开发中 | 计划中 | 暂停中 | 已完结 | 休眠中 | 已归档 | 已弃坑 |
 
-Contributions of all kinds are welcome.
+| 🌌 | 🌙 | 🧪 | 🎓 | 🧰 | 📚 | 🎨 | 🤖 | 🎮 | 🌐 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 代表作 | 业余作 | 试验作 | 课程作 | 小工具 | 笔记/文档 | 创作 | AI | 游戏 | Web |
 
-You can help by:
+| 项目 | 维护情况 | 项目描述 |
+| ---: | :---: | :--- |
+| [LedScribe](https://github.com/ProjectHazelita/LedScribe) | 🛠 \| 🧰 | CH546 11x44 显示屏写入工具 |
+| [ret2cli](https://github.com/ProjectHazelita/ret2cli) | 💤 \| 🧰 | Ret2Shell CTF 平台的 CLI 客户端 |
+| [Hazelita](https://github.com/ProjectHazelita/Hazelita) | 💤 \| 🌌 | 适用于高中生的数学 CAS 计算套件和演示工具 |
+| [hzltfw](https://github.com/ProjectHazelita/hzltfw) | 📦 \|🎓 | 面向电子数据取证课程实训的本地取证工作台 |
 
-- reporting bugs and suggesting improvements;
-- contributing code or documentation;
-- reviewing issues and pull requests;
-- improving translations and accessibility;
-- sharing ideas and technical knowledge.
+| hzlt!Game 挑战 | 维护情况 | 挑战描述 |
+| ---: | :---: | :--- |
+| [hG26-VOCAEND](https://github.com/ProjectHazelita/hG26-VOCAEND) | 📦 \| 🎮 | hzlt!Game 2026 Pwn 题目 VOCAEND |
 
-Each project may have its own contribution guide. If one is available, please read its `CONTRIBUTING.md` before getting started.
+</div>
 
-## 🫂 Community
+## 🤝 我们的社群
 
-Project Hazelita is more than a collection of repositories.
+Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候指的是我们友好而温暖的社群。我们的社群分布在各个平台上——以及，如果你也想加入我们的话，欢迎。
 
-**Hazelita Plaza** is our wider community space, including our Discord and Telegram communities, where people can discuss technology, projects, daily life, and whatever else belongs around the same campfire.
+<div align="center">
 
-Everyone participating in Project Hazelita is expected to follow the [Project Hazelita Community Guidelines](https://github.com/ProjectHazelita/community-guidelines).
+| 加入前，请先阅读 |
+| :---: |
+| [《Project Hazelita 社群公约》](https://github.com/ProjectHazelita/community-guidelines) |
 
-Please be kind to the people behind the usernames. 🌿
+| QQ 群聊 | Discord 服务器 | Telegram 群组 |
+| :---: | :---: | :---: |
+| [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](about:blank) | [📡 Hazelita Relay](about:blank) |
+| 最日常热闹的聚集场所 | 语音、直播、社群活动 | 轻量、开放的交流地 |
 
-## 🔐 Security
+</div>
 
-If you discover a security vulnerability in one of our projects, please **do not report it through a public issue**.
+---
 
-Refer to the repository's `SECURITY.md`, or the organization-wide security policy when available, for the appropriate reporting method.
+<br/>
 
-## 🌌 Around Hazelita
+<div align="center">
 
-Explore our repositories, open an issue, send a pull request, or simply stay for a while.
+我们将不停止探索 \
+而我们一切探索的终点 \
+将是到达我们出发的地方 \
+并且是平生第一遭知道这地方
 
-Open source is built from code, documentation, discussions, experiments, mistakes, friendships, and many small acts of curiosity.
+Copyright (c) 2024-2026 Project Hazelita
 
-**Welcome to Project Hazelita.** 🪼
+</div>
