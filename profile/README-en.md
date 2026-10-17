@@ -16,7 +16,7 @@
 
 ## ✨ About Project Hazelita
 
-**Project Hazelita** is a collection of projects built around open-source software, technology, experimentation, and knowledge sharing. The **Project Hazelita Community** is also a friendly, inclusive space that welcomes people of all genders and respects diversity.
+**Project Hazelita** is a collection of projects built around open-source software, technology, experimentation, and knowledge sharing, along with the community that has gradually formed around them. The **Project Hazelita Community** is a friendly community centered on open-source software, technological exploration, and knowledge sharing.
 
 Project Hazelita began with a simple wish from its maintainer, [LyCecilion](https://github.com/LyCecilion): to build a [mathematical CAS toolkit and demonstration tool](https://github.com/ProjectHazelita/Hazelita) for high school students. It grew from the passion and aspiration of a high school student eager to build a real project of their own. As the project proved far more difficult to implement than LyCecilion had imagined, it was put on hold for several months, and development was announced as suspended in July 2026.
 

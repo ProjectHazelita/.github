@@ -16,7 +16,7 @@
 
 ## ✨ 关于 Project Hazelita
 
-**Project Hazelita** 是一系列围绕开源软件、技术、实验与知识共享而构建的项目。同时，**Project Hazelita 社群** 是一个友善、包容、全性别友好并尊重多样性的空间。
+**Project Hazelita** 是围绕开源软件、技术、实验与知识共享构建的一系列项目，以及围绕这些项目逐渐形成的共同体。同时，**Project Hazelita 社群** 是一个以开源软件、技术探索与知识共享为核心的友善社区。
 
 Project Hazelita 始于维护者 [LyCecilion](https://github.com/LyCecilion) 的一个朴素愿望：为高中生打造一套 [数学 CAS 计算套件和演示工具](https://github.com/ProjectHazelita/Hazelita)。这源于一名高中生的热忱：亲手构建一个真正属于自己的项目。由于该项目的实现难度远超 LyCecilion 先前的想象，该项目最终被搁置数月，并于 2026 年 7 月宣布暂停开发。
 
