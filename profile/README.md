@@ -66,7 +66,7 @@ Project Hazelita 现在不再仅仅指一系列项目的集合；它更多时候
 
 | QQ 群聊 | Discord 服务器 | Telegram 群组 |
 | :---: | :---: | :---: |
-| [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](about:blank) | [📡 Hazelita Relay](about:blank) |
+| [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](https://discord.com/invite/Wpc7G3Js4X) | [📡 Hazelita Relay](https://t.me/projecthazelita) |
 | 日常、热闹的聚集场所 | 语音、直播、社群活动 | 轻量、开放的交流地 |
 
 </div>

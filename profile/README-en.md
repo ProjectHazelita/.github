@@ -66,7 +66,7 @@ Project Hazelita no longer refers only to a collection of projects; more often, 
 
 | QQ Group Chat | Discord Server | Telegram Group |
 | :---: | :---: | :---: |
-| [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](about:blank) | [📡 Hazelita Relay](about:blank) |
+| [🏙️ Hazelita Plaza](https://qm.qq.com/q/tx6trxk8Y8) | [🌿 Hazelita Commons](https://discord.com/invite/Wpc7G3Js4X) | [📡 Hazelita Relay](https://t.me/projecthazelita) |
 | Our lively everyday gathering place | Voice chat, streams, and community events | A lightweight, open place to connect |
 
 </div>
